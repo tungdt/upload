@@ -1,0 +1,69 @@
+{
+  "status": null,
+  "messages": [],
+  "devMessages": [],
+  "errors": [],
+  "otherInfo": null,
+  "body": {
+    "mProductDto": {
+      "diseases": null,
+      "productCode": "PRD1",
+      "productName": "PRD1 product_name ",
+      "description": "PRD1 description ",
+      "productId": 1,
+      "quantity": 500,
+      "unit": "Box",
+      "otc": "0",
+      "dose": "PRD1 dose ",
+      "sideEffect": "PRD1 side_effect ",
+      "indicationMedical": "PRD1 indication_medical",
+      "indicationGeneral": "PRD1 indication_general",
+      "interaction": "PRD1 interaction",
+      "maxCapacity": "PRD1 max_capacity",
+      "packing": "PRD1 packing",
+      "madeIn": "PRD1 made_in",
+      "model": "PRD1 model",
+      "contraindication": "PRD1 contraindication",
+      "precautions": "PRD1 precautions",
+      "indicationUsage": "PRD1 indication_usage",
+      "composition": "PRD1 composition",
+      "indicationPreservation": "PRD1 indication_preservation",
+      "overdoseEffect": "PRD1 overdose_effect",
+      "overdoseTreatment": "PRD1 overdose_treatment",
+      "shelfLife": "PRD1 shelf_life",
+      "pharmacological": "PRD1 pharmacological",
+      "pharmacokinetics": "PRD1 pharmacokinetics",
+      "pregnancyLactation": "PRD1 pregnancy_lactation",
+      "fullboxWeight": 200,
+      "status": "1",
+      "createdBy": "admin",
+      "createdDate": 1466155490390,
+      "modifiedBy": "admin",
+      "modifiedDate": 1466155490390,
+      "presentation": "PRD1 presentation",
+      "manuafactureId": 1
+    },
+    "mManufactureDto": {
+      "manufactureId": 1,
+      "manufactureCode": "MNF1",
+      "manufactureName": "name of MNF1",
+      "address": "Jakarta Indonesia",
+      "status": "1",
+      "createdBy": "admin",
+      "createdDate": 1466154489069,
+      "modifiedBy": "admin",
+      "modifiedDate": 1466154489069
+    },
+    "price": 2000,
+    "thumbnailImageUrl": "product_thumbnail1.jpg",
+    "listNormalImage": [
+      "product1.jpg"
+    ],
+    "listCategoryName": [
+      "medicine",
+      "medicine 2"
+    ],
+    "favorite": true
+  },
+  "error": false
+}
